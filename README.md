@@ -1,17 +1,16 @@
 # Sarthak Jagtap — Developer Portfolio
 
-A modern, responsive developer portfolio built with React and Vite, featuring interactive 3D-inspired visuals, animations, project showcases, technical skills, and contact options.
+A modern, responsive developer portfolio built with React.js and Vite, featuring interactive visuals, animations, projects, technical skills, and contact information.
 
 ## 🚀 Features
 
-- Modern and responsive portfolio design
-- Interactive 3D-inspired orbital visuals
+- Modern, responsive portfolio design
+- Interactive 3D-inspired visuals
 - Smooth animations and transitions
-- Projects showcase with live website and GitHub links
+- Featured projects with live demos and GitHub repositories
 - Technical skills and experience sections
-- WhatsApp enquiry form for contact
+- WhatsApp contact option
 - Resume download button
-- Responsive layout for desktop and mobile devices
 
 ## 🛠️ Tech Stack
 
@@ -44,16 +43,16 @@ A modern, responsive developer portfolio built with React and Vite, featuring in
 
 ### Installation
 
-1. Clone this repository:
+1. Clone the repository:
 
    ```bash
-   git clone YOUR_PORTFOLIO_GITHUB_URL
+   git clone https://github.com/sarthakbuildsdev/sarthak-portfolio.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project folder:
 
    ```bash
-   cd sarthak-portfolio-redesign
+   cd sarthak-portfolio
    ```
 
 3. Install dependencies:
@@ -68,36 +67,32 @@ A modern, responsive developer portfolio built with React and Vite, featuring in
    npm run dev
    ```
 
-5. Open the local URL displayed in your terminal.
+5. Open the local URL shown in the terminal.
 
 ### Production Build
-
-To create an optimized production build:
 
 ```bash
 npm run build
 ```
 
-The generated production files will be available in the `dist` folder.
+The production-ready files will be generated in the `dist` folder.
 
 ## 📄 Resume
 
-Use the **Download Resume** button on the portfolio to access my resume.
-
-Ensure the final resume PDF is included in the correct public folder path and that the download button points to that file.
+The portfolio includes a Download Resume button for accessing my resume. The final PDF must be placed at the path configured in the download button.
 
 ## 📬 Contact
 
-- **GitHub:** https://github.com/sarthakbuildsdev
 - **Email:** sarthakjagtap390@gmail.com
-- **LinkedIn:** Add your LinkedIn profile URL
+- **GitHub:** https://github.com/sarthakbuildsdev
+- **LinkedIn:** https://linkedin.com/in/sarthak-jagtap-7252993ba
 
 ## 👨‍💻 Author
 
 **Sarthak Jagtap**
 
-TY B.Sc. IT student and freelance web developer passionate about building modern, responsive web experiences.
+TY B.Sc. IT student and freelance web developer interested in building modern, responsive web experiences.
 
 ---
 
-⭐ If you like this project, consider giving the repository a star.
+⭐ Thanks for visiting my portfolio repository!
